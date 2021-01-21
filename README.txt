@@ -34,3 +34,7 @@ C:/Users/moi/OndeDrive/Bureau/extraction.csv
 Pour extraire les données, appuyez sur extraire. Un popup vous avertira quand l'extraction sera terminée. 
 Selon la taille du fichier, la puissance de votre ordinateur, le temps de traitement peut considérablement varier (jusqu'à 30 mn parfois).
 Le bouton extraire restera enfoncé le temps de l'extraction. 
+
+Dans le respect de l'esprit du logiciel libre, vous pourrez modifier, réutiliser, améliorer le code ayant permis de créer cette application. 
+
+Nous ne prenons aucune responsabilité en cas de mauvaise utilisation du logiciel pouvant causer des dommages. 
